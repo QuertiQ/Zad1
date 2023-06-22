@@ -23,8 +23,8 @@
 
         <!-- Styl dla Button -->
         <Style x:Key="ButtonStyle" TargetType="Button">
-            <Setter Property="Background" Value="#EEE" />
-            <Setter Property="FontSize" Value="{StaticResource ButtonBackgroundColor}" />
+            <Setter Property="Background" Value="{StaticResource ButtonBackgroundColor}" />
+            <Setter Property="FontSize" Value="20" />
         </Style>
 
         <!-- Drugi styl dla Button (dla WrapPanelu) -->
